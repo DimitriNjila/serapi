@@ -1,6 +1,6 @@
-# Intuit Interview Question Scraper (SerpApi)
+# Interview Question Scraper (SerpApi)
 
-This scraper collects technical interview questions for Intuit/Glider from:
+Basic Scraper tool utilizing SerApi to scrape for commonly asked behavioral and technical interview questions. Tool scrapes the following websites
 
 - Reddit
 - LeetCode
@@ -18,4 +18,4 @@ This scraper collects technical interview questions for Intuit/Glider from:
 
 ## Output
 
-- Prints 15–20 commonly asked interview questions.
+- Prints 15–20 commonly asked interview questions for the company and role you are interviewing for
